@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 21 articles published through Day 4 of 365
+> 21 articles published through Day 6 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
