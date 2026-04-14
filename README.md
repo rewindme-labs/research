@@ -9,7 +9,7 @@ The knowledge here is not locked behind a platform or a subscription. It belongs
 
 ---
 
-**21 articles published** · Day 6 of 365 · Last update: 2026-04-12
+**22 articles published** · Day 8 of 365 · Last update: 2026-04-14
 
 Explore the full experience at [rewind-me.com](https://rewind-me.com)
 

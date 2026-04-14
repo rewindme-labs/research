@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 21 articles published through Day 6 of 365
+> 22 articles published through Day 8 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -67,3 +67,7 @@ library/tools/flaked_stone_tools.md
 
 ## Safe Camp Site Selection
 library/survival/camp_site_selection.md
+
+# Day 7
+## Wild Plant Identification & Foraging
+library/survival/wild_plant_foraging.md
