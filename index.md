@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 54 articles published through Day 10 of 365
+> 57 articles published through Day 17 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -169,3 +169,15 @@ library/survival/problem_solving.md
 
 ## Cooperative Hunting
 library/survival/cooperative_hunting.md
+
+# Day 11
+## Oldowan Industry
+library/tools/oldowan_industry.md
+
+# Day 13
+## Field Butchering & Meat Processing
+library/survival/field_butchering.md
+
+# Day 17
+## Primitive Woodworking
+library/tools/primitive_woodworking.md
