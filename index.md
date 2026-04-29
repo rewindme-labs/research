@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 57 articles published through Day 17 of 365
+> 61 articles published through Day 23 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -181,3 +181,17 @@ library/survival/field_butchering.md
 # Day 17
 ## Primitive Woodworking
 library/tools/primitive_woodworking.md
+
+# Day 19
+## Persistence Hunting (Endurance Running)
+library/survival/persistence_hunting.md
+
+# Day 21
+## Cooking (Fire-Based Food Preparation)
+library/foods/cooking_fire_food.md
+
+## Hand Axe (Acheulean Biface)
+library/tools/hand_axe_acheulean.md
+
+## Hide & Skin Clothing
+library/materials/hide_skin_clothing.md
