@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 61 articles published through Day 23 of 365
+> 89 articles published through Day 23 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -146,6 +146,9 @@ library/construction/shelter_construction.md
 ## Ambush Strategy
 library/survival/ambush_strategy.md
 
+## Lithic Knapping
+library/tools/lithic_knapping.md
+
 # Day 4
 ## Division of Labour
 library/social_organization/division_of_labor.md
@@ -159,9 +162,29 @@ library/foods/dietary_expansion.md
 ## Footprint Tracking
 library/survival/footprint_tracking.md
 
+# Day 6
+## Tuber and Root Foraging
+library/foods/tuber_root_foraging.md
+
+## Dry Season Water Sourcing
+library/survival/dry_season_water_sourcing.md
+
+## Stone Tool Caching
+library/tools/stone_tool_caching.md
+
 # Day 7
 ## Wild Plant Identification & Foraging
 library/survival/wild_plant_foraging.md
+
+# Day 8
+## Tree Sleeping
+library/survival/tree_sleeping.md
+
+## Group Vigilance and Sentinel Behavior
+library/social_organization/group_vigilance.md
+
+## Predator Mobbing
+library/survival/predator_mobbing.md
 
 # Day 9
 ## Problem Solving
@@ -170,21 +193,78 @@ library/survival/problem_solving.md
 ## Cooperative Hunting
 library/survival/cooperative_hunting.md
 
+# Day 10
+## Bone Marrow Extraction
+library/foods/bone_marrow_extraction.md
+
+## Wild Food Toxicity Testing
+library/foods/food_toxicity_testing.md
+
 # Day 11
 ## Oldowan Industry
 library/tools/oldowan_industry.md
+
+## Chopper Tool
+library/tools/chopper_tool.md
+
+# Day 12
+## Seasonal Migration Routes
+library/navigation/seasonal_migration.md
+
+## Group Defense Against Carnivores
+library/survival/carnivore_defense.md
 
 # Day 13
 ## Field Butchering & Meat Processing
 library/survival/field_butchering.md
 
+## Food Sharing and Division
+library/social_organization/food_sharing.md
+
+## Cognitive Mapping
+library/navigation/cognitive_mapping.md
+
+# Day 15
+## Termite and Ant Extraction
+library/foods/termite_extraction.md
+
+## Waterhole Digging
+library/survival/waterhole_digging.md
+
+# Day 16
+## Meat Sun-Drying
+library/foods/meat_sun_drying.md
+
+## Small Game Hunting
+library/survival/small_game_hunting.md
+
 # Day 17
 ## Primitive Woodworking
 library/tools/primitive_woodworking.md
 
+# Day 18
+## Flake Scraper
+library/tools/flake_scraper.md
+
+## Hide Working
+library/materials/hide_working.md
+
 # Day 19
 ## Persistence Hunting (Endurance Running)
 library/survival/persistence_hunting.md
+
+## Load Carrying Techniques
+library/survival/load_carrying.md
+
+## Plant Fiber Cordage
+library/materials/plant_fiber_cordage.md
+
+# Day 20
+## Carcass Butchering
+library/survival/carcass_butchering.md
+
+## Fire Starting
+library/energy/fire_starting.md
 
 # Day 21
 ## Cooking (Fire-Based Food Preparation)
@@ -195,3 +275,17 @@ library/tools/hand_axe_acheulean.md
 
 ## Hide & Skin Clothing
 library/materials/hide_skin_clothing.md
+
+# Day 22
+## Water Hole Monitoring
+library/survival/water_hole_monitoring.md
+
+## Snare Trapping
+library/survival/snare_trapping.md
+
+# Day 23
+## Hafting
+library/tools/hafting.md
+
+## Lean-To Shelter
+library/construction/lean_to_shelter.md
