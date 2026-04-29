@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 89 articles published through Day 23 of 365
+> 90 articles published through Day 23 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -241,6 +241,9 @@ library/survival/small_game_hunting.md
 # Day 17
 ## Primitive Woodworking
 library/tools/primitive_woodworking.md
+
+## Digging Stick
+library/tools/digging_stick.md
 
 # Day 18
 ## Flake Scraper
