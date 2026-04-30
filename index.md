@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 90 articles published through Day 23 of 365
+> 92 articles published through Day 24 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -292,3 +292,10 @@ library/tools/hafting.md
 
 ## Lean-To Shelter
 library/construction/lean_to_shelter.md
+
+# Day 24
+## Thermoregulation
+library/survival/thermoregulation.md
+
+## Alloparenting
+library/social_organization/alloparenting.md
