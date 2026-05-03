@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 97 articles published through Day 27 of 365
+> 101 articles published through Day 27 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -316,3 +316,17 @@ library/materials/ochre_use.md
 
 ## Camp Fire Management
 library/energy/camp_fire_management.md
+
+# Day 26
+## Water Container
+library/tools/water_container.md
+
+## Earth Oven
+library/foods/earth_oven.md
+
+# Day 27
+## Fire Transport
+library/energy/fire_transport.md
+
+## Natural Adhesive
+library/materials/natural_adhesive.md
