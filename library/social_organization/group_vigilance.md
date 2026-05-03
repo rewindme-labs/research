@@ -1,4 +1,5 @@
 # Group Vigilance and Sentinel Behavior
+## Description
 <!-- @field: description -->
 Group vigilance is the emergent defense system that arises when multiple individuals in a social group divide the cognitive burden of scanning for predators. Rather than every individual simultaneously scanning and eating - an inefficient division of attention - groups develop informal or semi-formal sentinel arrangements where some individuals prioritize vigilance while others forage or rest. When a sentinel detects threat, specific alarm signals trigger coordinated responses from the entire group.
 
@@ -79,8 +80,8 @@ Effective group vigilance requires no explicit planning - it emerges from indivi
 | Detection advantage (group vs. solo) | 2-6x earlier detection | Depends on group size and positioning |
 | Taung Child fossil age (eagle predation) | ~2.8 Ma | Confirms aerial predation pressure on hominins |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 Your group is eating. Everyone is looking down at the ground.
 
 That is the moment predators choose to approach.

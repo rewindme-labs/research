@@ -1,4 +1,5 @@
 # Bone Marrow Extraction
+## Description
 <!-- @field: description -->
 Bone marrow is one of the most calorie-dense foods accessible to a hominin on the African savanna - a single femur from a large bovid (wildebeest, zebra) contains 200-400 grams of pure fat-rich marrow yielding 1,400-2,800 kcal. Unlike muscle meat, which spoils rapidly in tropical heat and is consumed quickly by competing carnivores, bone marrow remains protected inside the bone and accessible even from carcasses that have been defleshed by lions, leopards, and hyenas. Early hominins exploited this competitive gap: access to the caloric treasure locked inside bones that no other competitor could open.
 
@@ -88,8 +89,8 @@ Marrow extraction requires only a hammerstone - no other tool is necessary, thou
 | Carcass window before competitors arrive | 10-20 minutes | In active scavenger habitat |
 | Marrow protection from decay | Days to weeks | Inside intact bone in ambient temperatures |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You found a carcass. The lions ate the meat last night. The vultures took the scraps this morning. There is nothing left visible.
 
 Look at the legs. The large bones - the thigh, the shin - are still intact. Inside those bones is marrow.

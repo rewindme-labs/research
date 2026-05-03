@@ -1,4 +1,5 @@
 # Flake Scraper
+## Description
 <!-- @field: description -->
 The flake scraper is the first deliberately retouched stone tool in the archaeological record: a stone flake whose dorsal edge has been shaped by secondary percussion or pressure to create a durable, angled scraping edge. While an unretouched flake has a very sharp but fragile edge suited for cutting, a retouched scraper has a more robust edge that can sustain the lateral pressure required for sustained scraping tasks - working hides, shaping wooden shafts, removing bark, and scraping tubers.
 
@@ -79,8 +80,8 @@ Two methods, choose based on available materials:
 | Oldest confirmed retouched scrapers | ~2.0 Ma | Olduvai Gorge, Turkana Basin |
 | Lifespan of well-maintained scraper | Multiple re-sharpenings | Until blank is exhausted |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have a fresh hide from yesterday's kill. You need to scrape the fat and membrane off the inside before it dries into a stiff board.
 
 Your sharp flakes will do it for 2 minutes and then the edge will crumble.

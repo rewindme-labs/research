@@ -1,4 +1,5 @@
 # Predator Mobbing
+## Description
 <!-- @field: description -->
 Predator mobbing is the coordinated group harassment of a known predator - approaching it closely, making aggressive displays, throwing objects, generating loud noise, and following it persistently until it abandons the area. Rather than fleeing, a group that mobs a predator takes the offensive, driving it away from sleeping sites, food caches, or vulnerable group members. This behavior converts the group from prey into a collective threat.
 
@@ -82,8 +83,8 @@ Mobbing is high-risk, high-reward. Never attempt without sufficient group size a
 | Predator area avoidance after mob | Days to weeks | Depends on individual predator's experience |
 | Chimpanzee projectile throw distance | Up to 9 m | Less accurate than human throw |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 There is a leopard in the tree 40 meters from where you sleep. It has been watching your group for 10 minutes. It is not leaving.
 
 You have two choices: run (and it may select the slowest person to chase), or mob it now before dark.

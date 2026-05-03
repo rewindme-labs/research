@@ -1,4 +1,5 @@
 # Tree Sleeping
+## Description
 <!-- @field: description -->
 For early hominins transitioning between arboreal and terrestrial lifestyles, sleeping in trees remained a critical survival strategy even as daytime activity shifted increasingly to the ground. The terrestrial savanna at night is dominated by large carnivores - lions, leopards, and hyenas - that have evolved specifically to hunt at low light. A bipedal hominin sleeping on the ground in this environment is extremely vulnerable. Trees provide physical separation from ground-level predators, early warning from disturbance of the branches and leaves, and advantaged defensive positions.
 
@@ -78,8 +79,8 @@ Effective tree sleeping requires selecting the right tree, preparing a stable po
 | Risk of falling during sleep | Low in fork position | High if attempting to sleep on single horizontal branch |
 | Time to assess tree safety (new site) | 5-10 minutes | Always do this before dark |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 The sun is 30 minutes from setting. You are on the open savanna. You do not have fire.
 
 Find a tree right now. Not later - now, while you can still see. Look for one with branches starting below 3 meters. Shake the lower branches. If they hold your weight, climb.

@@ -1,4 +1,5 @@
 # Wild Food Toxicity Testing
+## Description
 <!-- @field: description -->
 Of the approximately 350,000 known plant species, roughly 700 are lethally toxic to humans and thousands more cause serious illness. In an environment without accumulated cultural knowledge about which plants are safe, the ability to systematically evaluate unknown food items - slowing down the process of adoption rather than either refusing all new foods or accepting them incautiously - is a critical survival skill with deep evolutionary roots.
 
@@ -101,8 +102,8 @@ Apply this protocol to any unfamiliar food. Do not skip steps or compress the ti
 | Amatoxin detection (death cap mushroom) | Not detectable by taste/smell | Delayed 6-24 hours onset - highest risk food |
 | False safety rate (birds eating toxic berries) | Common | Bird metabolisms tolerate many human-toxic compounds |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You are hungry. You found a plant you do not recognize. Your instinct says eat it.
 
 Do not eat it yet.

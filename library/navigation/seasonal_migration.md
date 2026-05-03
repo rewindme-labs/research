@@ -1,4 +1,5 @@
 # Seasonal Migration Routes
+## Description
 <!-- @field: description -->
 Seasonal migration - the cyclical movement between different resource zones following predictable annual patterns - is the landscape-scale survival strategy that allowed early hominins to sustain themselves year-round in environments where no single location provides adequate food, water, and shelter through all seasons. Rather than exploiting a fixed home range until it is depleted and starving through the lean season, groups that understood seasonal resource availability could time movements to always be in the right place when critical resources peaked.
 
@@ -82,8 +83,8 @@ Seasonal migration operates at two timescales: the within-year cycle (wet season
 | Hadza seasonal camp shift distance | 20-60 km | Documented by Frank Marlowe, 2000s |
 | Route memory transmission | Multi-generational | Verified in San, Hadza, Aboriginal Australian groups |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 It has not rained in 40 days. The waterhole near your camp is down to mud. The fruit is gone. You have 2 days of food left.
 
 Do not wait for it to get worse.

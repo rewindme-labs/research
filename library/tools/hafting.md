@@ -1,4 +1,5 @@
 # Hafting
+## Description
 <!-- @field: description -->
 Hafting is the attachment of a stone, bone, or shell tool element to a wooden or bone handle, creating a composite tool with significantly greater mechanical effectiveness than either component alone. The key advantage is leverage: a hand-held 10 cm flake requires the user's arm to be within 10 cm of the target; the same flake mounted on a 150 cm shaft can be swung at high velocity with the mechanical amplification of the lever arm, producing far greater impact force and allowing distance from dangerous prey. Hafting transformed tools from hand-extensions into true weapons and high-efficiency implements.
 
@@ -91,8 +92,8 @@ Adhesive alone is insufficient for high-impact use. Always lash the haft joint:
 | Minimum base thickness for hafting | 8 mm | Thinner elements crack at the haft join |
 | Handle optimal length (spear) | 150-200 cm | Balance between reach and maneuverability |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have a good stone point. It is sharp enough but your hand is 5 cm from whatever you are stabbing. That is too close.
 
 Find a straight green branch, wrist-thick, 150 cm long. Split one end 8 cm deep with your flake. Push the wide base of your stone point into the split. The wood grips it.

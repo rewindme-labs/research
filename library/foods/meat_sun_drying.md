@@ -1,4 +1,5 @@
 # Meat Sun-Drying
+## Description
 <!-- @field: description -->
 Meat sun-drying is the simplest form of food preservation: exposing thin strips of fresh meat to direct sunlight and warm air until the water content is reduced to below 15%, inhibiting microbial growth and enzymatic spoilage. The process requires no fire, no salt, and no containers - only thin slicing technique, elevated placement for air circulation, and sufficient sunlight and low humidity. The result is a lightweight, shelf-stable protein food that can be carried and consumed over days to weeks.
 
@@ -85,8 +86,8 @@ Slice with the sharpest available stone flake, working systematically from the o
 | Drying time (ideal conditions) | 6-12 hours | East African dry season, direct sun |
 | Fat shelf life (dried) | 1-2 weeks | Fat goes rancid faster than lean - remove before drying |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have more meat than you can eat today. Tomorrow it will be rotten.
 
 Take your stone flake. Slice as much of the remaining meat as you can into strips 4-5 mm thick. Slice with the grain - along the muscle fibers, not across. Remove visible fat from each strip.

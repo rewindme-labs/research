@@ -1,4 +1,5 @@
 # Termite and Ant Extraction
+## Description
 <!-- @field: description -->
 Termites and ants are among the most nutritionally dense, energy-efficient, and seasonally predictable animal foods available on the African savanna. A single termite mound may contain 1-3 million workers and soldiers, each containing 14-16% protein and 30-40% fat by dry weight. Unlike hunting, which requires skill, risk, and cooperation, termite extraction can be accomplished by a single individual with a single stick in minutes. The caloric return per unit of foraging effort is exceptionally high.
 
@@ -84,8 +85,8 @@ Nutritional analysis of common termites (*Macrotermes* spp., the dominant mound-
 | Colony size (*Macrotermes*) | 1-3 million individuals | Workers + soldiers + reproductives |
 | Formic acid risk (army ants) | Moderate skin irritant | Not dangerous in small quantities |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have been walking all morning and found nothing worth eating. The termite mounds near the dry streambed are as big as your torso.
 
 Stop. You have protein right in front of you.

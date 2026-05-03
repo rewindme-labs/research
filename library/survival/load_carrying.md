@@ -1,4 +1,5 @@
 # Load Carrying Techniques
+## Description
 <!-- @field: description -->
 The ability to carry loads while moving bipedally is one of the defining functional advantages of upright walking. Unlike quadrupeds, whose forelimbs are committed to locomotion, a bipedal hominin has two hands permanently free for carrying. This seemingly simple capability has profound consequences: it enables provisioning of group members who cannot forage for themselves (infants, injured individuals, the very old), transport of food from acquisition sites to safe processing locations, carrying of tools over long distances, and transport of water from source to camp.
 
@@ -84,8 +85,8 @@ Ethnographic study of the Ache of Paraguay (Hill and Hurtado, 1996) documented w
 | Australopithecus estimated carry capacity | 15-20% body weight | Kramer & Sylvester 2009 |
 | Infant carry duration (all-day) | Birth to ~3-4 years | Until infant walks reliably on its own |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You need to get this food back to camp. It is 6 kilometers away. The pieces are too heavy to carry in your hands the whole way.
 
 Find two large flat pieces of bark. Lay your food across them. Fold the edges up. Now you have trays. Carry one in each arm, balanced against your body.

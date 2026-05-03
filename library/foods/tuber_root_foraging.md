@@ -1,4 +1,7 @@
 # Tuber and Root Foraging
+
+## Description
+## Description
 <!-- @field: description -->
 Underground storage organs - tubers, corms, rhizomes, and bulbs - represent the most calorie-dense, predictable, and drought-resistant food source available to early hominins on the African savanna. Unlike fruit, which is seasonal and ephemeral, underground organs persist through dry seasons, store starch and sugars in concentrated form, and remain accessible year-round. Paleoanthropologists estimate that tubers may have constituted 30 to 50 percent of the diet of early *Australopithecus* and *Homo* populations in East Africa, particularly during the dry season when fruit and game were scarce.
 
@@ -88,10 +91,18 @@ The digging stick is the only required tool - a hardwood branch, 60-120 cm long,
 | Starch content (tigernut) | 25-35% dry weight | Comparable to cultivated potato |
 | Safe daily consumption (raw yam) | Up to 500g | Higher quantities of raw Dioscorea cause GI distress |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
-You have no food. The savanna is dry. You need calories.
+## Day 0 - Cookbook
+<!-- @field: day0_cookbook -->
+It is the third day of the dry season. The last fruit you ate was two days ago - a handful of sour berries that gave you 80 calories and mild cramps. You have been walking since dawn and your blood sugar is dropping. Your hands shake when you try to grip your digging stick. You need starch. Dense, reliable, calorie-heavy starch.
 
-Find a dry streambed or lakeshore margin. Look for sedge grass - the thin, triangular-stemmed grass that grows in dense clumps in moist ground depressions. Follow the dried bed until you see it. Dig 10 cm down directly beside the stem cluster. You are looking for small brown corms the size of a large marble (tigernut sedge) or fibrous yellowish clumps (wild yam). Extract them. Brush off dirt. Do the lip test - hold a small piece to your lower lip for 30 seconds. No burning? Chew a pea-sized piece without swallowing. No burning, no numbness? Swallow a small amount and wait. If you feel fine after 2 hours, eat freely.
+Stop walking. Look around your feet. You are looking for sedge grass - thin stems with triangular cross-sections growing in clumps near dry streambeds, lakeshore margins, or seasonal pans. These plants are markers. Beneath every clump of *Cyperus* sedge sits a cluster of small, dense corms packed with 460 kcal per 100g of dry weight. The food is underground, invisible, and available twelve months a year including right now, in the middle of a drought that has stripped every fruit tree bare.
 
-A single hour of focused excavation in good ground will yield 1,000-2,000 calories. That is the difference between walking out tomorrow or not.
+Kneel at the base of the sedge clump. Drive your digging stick into the soil at a 30-degree angle, 5 cm from the stem cluster. Push down and lever outward. The soil cracks open. Drive in again, 90 degrees around from the first hole. Lever again. On the third insertion, you will feel the stick contact something firm that is not rock - it gives slightly. That is the corm cluster.
+
+Reach into the loosened soil and pull. A clump of brown, marble-sized nodules comes free, trailing fine roots and dirt. Brush the soil off with your thumb. Hold one to your lower lip for 30 seconds. No tingling, no burning. Bite a small piece and hold it in your mouth without swallowing for 5 minutes. Nutty, starchy, mildly sweet. No bitterness, no numbness.
+
+Swallow. Wait 2 hours before eating freely. If you feel no nausea, no cramping, no diarrhea, the species is safe.
+
+In the meantime, keep digging. A productive sedge patch yields 10-20 corms per clump, 3-5 clumps per square meter along the stream margin. An hour of focused excavation fills a bark tray with 2 kg of raw corms - roughly 1,500-2,000 calories. Your hands stop shaking after the first 200 calories. Your vision sharpens. Your legs feel solid again.
+
+The fruit trees are empty. The game has moved. But the corms are exactly where they were last year, and the year before, and the year before that. The ground does not migrate.

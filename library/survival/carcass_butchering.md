@@ -1,4 +1,5 @@
 # Carcass Butchering
+## Description
 <!-- @field: description -->
 Carcass butchering is the systematic dismemberment of a dead animal to extract maximum edible material - muscle, organ, fat, bone marrow, and brain - in the minimum time and with the minimum tool investment. For early hominins, butchering speed was a critical variable: at a carcass site on the African savanna, large carnivores (lions, hyenas), scavenging birds (vultures, marabou storks), and jackals will arrive within minutes. A group that can extract and transport the most valuable portions before displacement has a significant survival advantage.
 
@@ -80,8 +81,8 @@ Zooarchaeological analysis of bovid limb bone representation at East African Old
 | Oldest cut mark evidence | ~3.4 Ma | Dikika, Ethiopia (debated) |
 | Confirmed systematic butchering sites | ~1.8-1.9 Ma | Olduvai, Koobi Fora |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You found a fresh carcass. You have 10-15 minutes before hyenas arrive. You have 3 flakes and a hammerstone.
 
 Move fast. Here is the order:

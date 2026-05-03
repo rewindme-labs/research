@@ -300,7 +300,7 @@ library/survival/thermoregulation.md
 library/social_organization/alloparenting.md
 
 # Day 23
-## Persistence Hunting Technique
+## Persistence Hunting
 library/survival/persistence_hunting_technique.md
 
 # Day 24

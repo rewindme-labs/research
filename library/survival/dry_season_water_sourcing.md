@@ -1,4 +1,5 @@
 # Dry Season Water Sourcing
+## Description
 <!-- @field: description -->
 In semi-arid savanna environments, surface water disappears for 4 to 8 months of the year. Seasonal rivers become dry sand channels; waterholes shrink to bare cracked mud. For early hominins operating in East Africa between 3.5 and 2 million years ago, the ability to locate water during the dry season was not an optional skill - it was the primary constraint on group survival and territorial range. Groups that could not find water within a day's travel of their sleeping site were forced to relocate or die.
 
@@ -80,8 +81,8 @@ Water-finding is systematic. Use these methods in order of energy expenditure, f
 | Animal trail convergence distance | Water within 5 km | 2+ trails converging indicates proximity |
 | Seep flow rate (sandy substrate) | 0.5-2 liters/hour | Allow time for pool to form |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have no water. You have been walking since dawn. Your mouth is dry.
 
 Stop moving. Face the landscape and read it before you expend more energy. Look for converging animal trails - two or more trails meeting at a point. Follow them. Look for a strip of greener vegetation cutting through dry ground. Walk toward it. Look for birds flying in a straight line at low altitude - they are going to water at dusk.

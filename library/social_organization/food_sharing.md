@@ -1,4 +1,5 @@
 # Food Sharing and Division
+## Description
 <!-- @field: description -->
 Food sharing - the deliberate distribution of acquired food beyond the acquiring individual's immediate family to other group members - is one of the most distinctive behaviors separating hominins from other great apes. While chimpanzees sometimes share meat after a cooperative hunt, systematic sharing of plant foods, tubers, and other gathered items is essentially absent in non-human primates. Among early hominins, food sharing became a foundational social institution: it enabled provisioning of the young, injured, and elderly; created obligations and alliances that increased group cohesion; and allowed specialization of labor that improved overall group efficiency.
 
@@ -74,8 +75,8 @@ Food sharing in hunter-gatherer societies follows consistent principles that max
 | San *hxaro* partnership geography | Up to 300 km | Long-distance sharing networks for drought insurance |
 | Delayed reciprocity window (San) | Months to years | Informal but socially enforced |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You came back to camp with more than you can eat tonight. Three other people came back with nothing.
 
 Share it now, openly, where everyone can see.

@@ -1,4 +1,5 @@
 # Stone Tool Caching
+## Description
 <!-- @field: description -->
 The transport and deliberate storage of stone tools and raw lithic material represents one of the earliest documented behaviors showing multi-step planning in hominins. Rather than manufacturing tools only at the moment of use and abandoning them immediately after, some early hominins carried tools across the landscape and deposited them at key locations - sleeping sites, butchery locations, water sources - for future retrieval.
 
@@ -79,8 +80,8 @@ Effective stone tool caching requires evaluation of three factors: quality of th
 | Cache survival rate (open ground) | Low | Need sheltered placement under rock |
 | Optimal raw nodule size | 8-15 cm diameter | Manageable weight, adequate flake yield |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You have a good stone tool right now. You are at a carcass site, 8 kilometers from where you sleep.
 
 Do not leave the tool here when you go. Do not throw it away when you are done.

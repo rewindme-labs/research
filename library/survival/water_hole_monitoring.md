@@ -1,4 +1,5 @@
 # Water Hole Monitoring
+## Description
 <!-- @field: description -->
 A permanent water hole in the dry season is simultaneously the most critical resource and the most dangerous location on the East African savanna. Every animal in the region must drink - prey species, predators, and hominins alike converge on the same limited water points. Lions, leopards, hyenas, and crocodiles all learn to ambush prey at water holes, making these locations peak predation risk zones, especially at dawn, dusk, and night.
 
@@ -94,8 +95,8 @@ Modern ethological observation at Amboseli (Kenya) by Cynthia Moss and colleague
 | Optimal approach group size | 5-10 individuals | Balance between safety and water hole displacement of other animals |
 | Container collection capacity | 2-5 liters per person | With animal stomach, gourd, or bark container |
 
-## Day 0 — Cookbook
-<!-- @field: day0 -->
+## Day 0  -  Cookbook
+<!-- @field: day0_cookbook -->
 You are 300 meters from the water hole. Your mouth is dry. Your instinct says run to it.
 
 Wait.
