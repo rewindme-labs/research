@@ -1,6 +1,6 @@
 # rewind-me Research Index
 
-> 92 articles published through Day 24 of 365
+> 97 articles published through Day 27 of 365
 
 # Day 1
 ## Reciprocal Altruism (Food Sharing & Trust)
@@ -299,3 +299,20 @@ library/survival/thermoregulation.md
 
 ## Alloparenting
 library/social_organization/alloparenting.md
+
+# Day 25
+## Controlled Fire (Fire Keeping & Management)
+library/energy/controlled_fire.md
+
+## Persistence Hunting Technique
+library/survival/persistence_hunting_technique.md
+
+## Social Learning
+library/social_organization/social_learning.md
+
+# Day 26
+## Ochre Use
+library/materials/ochre_use.md
+
+## Camp Fire Management
+library/energy/camp_fire_management.md
